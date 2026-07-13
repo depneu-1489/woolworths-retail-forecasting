@@ -68,6 +68,20 @@ Poor forecasting creates two operational risks:
 - **Quiet Period:** February 2026 ($14.27B) – reduce orders to avoid waste
 - **Average Monthly Forecast:** $15,271M
 
+## 📈 Visualizations               
+
+### Monthly Turnover Trend (Jan 2021 – Jun 2025)
+![Monthly Turnover](actual_turnover_line.png)
+
+### Actual vs Forecast (Full Timeline)
+![Actual vs Forecast](actual_vs_forecast.png)
+
+### Holdout Test: Actual vs Predicted (Last 12 Months)
+![Holdout Accuracy](holdout_accuracy.png)
+
+### Seasonal Pattern: Average Monthly Turnover
+![Seasonality](seasonality_bar.png)
+
 ## 💰 Business Benefits
 ### Financial
 - Reduced fresh food waste → Cost savings
